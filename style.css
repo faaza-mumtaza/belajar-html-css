@@ -1,0 +1,89 @@
+.ce,.oke {
+    margin-bottom: 0
+}
+
+.ce {
+    text-align: center;
+    margin-inline:auto;margin-block:0;max-width: 500px;
+    background-color: #fff
+}
+
+.be,body {
+    margin: 0;
+    font-family: sans-serif
+}
+
+.be {
+    padding-top: 48px
+}
+
+#fcc{
+  
+}
+
+.listt,.msa {
+    margin-inline:auto}
+
+.msa {
+    max-width: 480px;
+    padding: 20px;
+    margin-top: 0
+}
+
+.size-2 {
+    max-width: 248px
+}
+
+.bs {
+    margin-block:32px}
+
+.listt {
+    text-align: left
+}
+
+.oke {
+    padding-top: 72px;
+    padding-bottom: 32px;
+    font-style: italic
+}
+
+.gams {
+    max-width: 100%;
+    margin-block:12px}
+
+.ks {
+    margin-inline:32px}
+
+body {
+    padding: 0;
+    background-image: url(assets/image/bg1.webp);
+    background-position: center;
+    background-size: auto;
+    background-attachment: fixed;
+}
+
+.mx-auto {
+    margin-inline:auto!important}
+
+h3,p {
+    padding-block:12px}
+
+    ul {
+        list-style-type: none;
+        padding-left: 0; /* Ini juga menghilangkan padding default dari ul */
+    }
+    
+    li {
+        margin: 5px 0;
+    }
+
+a {
+    color: purple;
+    text-decoration: none;
+}
+
+a:hover {
+    color: violet;
+    text-decoration: underline;
+}
+    
